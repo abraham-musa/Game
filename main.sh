@@ -16,4 +16,4 @@ then
 fi
 
 echo " Sir ,$cafeteria it's on Floor Tanzeela all the way to the right side "
-echo "Thankyou"
+echo "Thank you"
