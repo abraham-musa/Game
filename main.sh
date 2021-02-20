@@ -8,7 +8,7 @@ echo "Welcome $name You have a few hours before check-in but we've got you cover
 
 echo "SIR what are you looking for? you can type herce where you want to go."
 
-read where_to
+read "Where to?" #No underscore needed when qoutes are used"
 
 if [ "$where_to" = "rooftop" ];
 then
