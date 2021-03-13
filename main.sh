@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Riad 
+# February 15, 2020
+# Game script in bash
+
 echo "Hi, Guest! Welcome to the Per Scholas Palace Hotel! What name is your reservation under?"
 
 read name
